@@ -4,6 +4,10 @@
 - :herb: Tenho como hobbie a pratica de yoga, corrida, musculação, video game, contato com a natureza no geral e estudar Japonês.
 - :sparkles: Busco sempre o meu melhor estado, evoluindo e procurando melhorar a cada dia.
 
+  
+  <img align="rigth" alt="" height="190px" src="./src/ChatGPT Image 20 de abr. de 2025, 13_03_34.png">
+
+##
 <a href="https://github.com/bruno-rossetto">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bruno-rossetto&show_icons=true&theme=radical"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-rossetto&layout=compact&langs_count=16&theme=dracula"/>
